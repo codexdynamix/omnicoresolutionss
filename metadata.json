@@ -1,0 +1,8 @@
+{
+  "name": "Omnicore Solutions",
+  "description": "Machinery for Zimbabwe's farms, mines and sites. Harare-based supplier of mining equipment, construction machinery hire, hardware, farming plant and industrial machines.",
+  "requestFramePermissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

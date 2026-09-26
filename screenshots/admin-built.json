@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8081/admin",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Operations & CRM Backoffice · Omnicore Harare",
+      "hasCanvas": false,
+      "bodyTextLen": 289,
+      "bodyTextHash": "d0f996e567443ca07c4816f443b63522c923f209516e134c0d13c8286d08418f",
+      "bodyTextPrefix": "Omnicore Solutions Return to Public Website Omnicore Backoffice ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/admin-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Operations & CRM Backoffice · Omnicore Harare",
+      "hasCanvas": false,
+      "bodyTextLen": 289,
+      "bodyTextHash": "d0f996e567443ca07c4816f443b63522c923f209516e134c0d13c8286d08418f",
+      "bodyTextPrefix": "Omnicore Solutions Return to Public Website Omnicore Backoffice ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/admin-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/admin-built.json"
+}
